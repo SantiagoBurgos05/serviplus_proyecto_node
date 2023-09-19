@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Santiago",
+      "apellido": "Burgos",
+      "email": "hola@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "tikets": [
+    {
+      "email": "santiagobuitragoburgos54@gmail.com",
+      "contenido": "Solicitud de error a la empresa serviplus",
+      "fecha": "2023-09-19",
+      "id": 1
+    }
+  ],
+  "respuesta": [
+    {
+      "id": "1",
+      "respuesta": "Solicitud recibida",
+      "fecha": "2023-09-20"
+    }
+  ]
+}
